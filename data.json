@@ -1,0 +1,6 @@
+[
+    { "name": "komputer", "price": 45, "stock": 3, "id": 1 },
+    { "name": "telefon", "price": 34, "stock": 4, "id": 2 },
+    { "name": "televizor", "price": 18, "stock": 6, "id": 3 }
+  ]
+  
